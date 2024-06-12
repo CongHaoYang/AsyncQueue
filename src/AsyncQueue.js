@@ -1,3 +1,8 @@
+/**
+ * https://juejin.cn/post/7052609791641780260 asyncQueue
+ * https://juejin.cn/post/7049385716765163534 eventloop
+ */
+
 class AsyncQueue {
     constructor(options) {
         this.options = options;
